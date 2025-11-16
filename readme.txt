@@ -1,1 +1,0 @@
-run the depencies.bat to install the libs
